@@ -1,0 +1,7 @@
+10:03:31.962 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xbfcc5166063b1ad9
+10:03:32.091 [main] INFO  TestCases.TestingPage - driver get initialzed
+10:03:42.133 [main] INFO  TestCases.TestingPage - website get opened
+10:03:42.230 [main] DEBUG TestCases.TestingPage - cursor will move
+10:03:42.475 [main] INFO  TestCases.TestingPage - cursor moved
+10:03:48.597 [main] INFO  TestCases.TestingPage - sortby option clicked
+10:03:49.321 [main] INFO  TestCases.TestingPage - brand get selected

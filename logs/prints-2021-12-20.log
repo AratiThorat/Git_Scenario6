@@ -1,0 +1,7 @@
+11:52:41.293 [TestNG-tests-1] INFO  TestCases.TestingPage - cursor moved
+11:52:46.469 [TestNG-tests-1] INFO  TestCases.TestingPage - sortby option clicked
+11:52:47.048 [TestNG-tests-1] INFO  TestCases.TestingPage - brand get selected
+11:52:47.242 [TestNG-tests-1] INFO  TestCases.TestingPage - price selected
+11:52:47.507 [TestNG-tests-1] INFO  TestCases.TestingPage - discount range selected
+11:52:52.139 [TestNG-tests-1] INFO  TestCases.TestingPage - add to bag button clicked
+11:52:55.843 [TestNG-tests-1] INFO  TestCases.TestingPage - move to wish list clicked
